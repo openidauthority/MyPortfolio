@@ -3,6 +3,27 @@ Technology Consultant & Application Craftsman
 
 ## Projects
 
+### Question and Answers Website
+
+I work part-time for a startup that is building a unique knowledge-sharing application. 
+As the CTO, I provide strategic technical advice and help manage an off-shore development team.
+
+### Learner Portal
+
+I built the front end for a self-service learner portal using Vue. 
+The portal allows thousands of real-estate agents to manage their 
+enrollment in continuing education courses and significantly reduces 
+the need for phone-based support.
+
+### Custom Shopping Cart
+
+For a client with more than 30,000 users and multiple websites, 
+I built a single sign-on solution that unified their user accounts 
+and allowed users to sign in with one-time codes. I also rebuilt 
+their custom shopping cart using Vue with TypeScript. The new cart 
+fixed numerous errors that were difficult to trace in their old 
+jQuery-based cart, and improved the testability of the code.
+
 ### OpenID Authority
 https://github.com/SimpleIAM/OpenIdAuthority
 
@@ -50,13 +71,6 @@ Speaking of passwords, did you realize that much of the advice you've heard from
 Enroll in my short password security class to have your eyes opened to
 how hackers actually work and how you can protect yourself and your users from modern threats.
 
-### eng.li
-http://eng.li
-
-While I was teaching English abroad I designed and created a beta version of a language-learning website for my students.
-It includes a language auto-detect feature and various tools for learning vocabulary.
-The tech stack is PHP, HTML, CSS, JavaScript, and MySQL. 
-
 ### CSS 3D Web Book
 https://openidauthority.com/portfolio/projects/webbook/index.html
 
@@ -68,7 +82,7 @@ The original version was also a progressive web app.
 http://aclweb.org/anthology/P13-1133
 
 If you happen to be interested in Natural Language Processing, you'll find this paper that I coauthored an interesting read. 
-It describing how I automatically built dozens of new wordnets from traditional word translation pairs extracted form Wictionary.
+It describing how I automatically built dozens of new wordnets from traditional word translation pairs extracted form Wiktionary.
 
 ### Your Project Here
 
